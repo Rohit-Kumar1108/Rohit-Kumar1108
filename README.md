@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-kumar1108&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-kumar1108" /> </p>
 
@@ -27,4 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-kumar1108&show_icons=true&locale=en" alt="rohit-kumar1108" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kumar1108&" alt="rohit-kumar1108" /></p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif">
+
 
