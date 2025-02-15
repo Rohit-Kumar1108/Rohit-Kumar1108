@@ -28,6 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kumar1108&" alt="rohit-kumar1108" /></p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif">
-
 
