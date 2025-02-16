@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rohit-Kumar1108/Rohit-Kumar1108/blob/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center"><b>Hi 👋, I'm Rohit Kumar</b></i></h1>
+<h3 align="center"><i>A passionate software developer from India</i></h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-kumar1108&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-kumar1108" /> </p>
